@@ -293,3 +293,12 @@ footer {
         height: 180px;
     }
 }
+.welcome {
+    background-color: #228B22 !important; /* ярко-зеленый фон */
+    color: #ffffff !important;            /* белый цвет текста */
+    font-family: Arial, sans-serif !important;
+    font-size: 2.2em !important;
+    padding: 2.2rem !important;           /* увеличенный padding */
+    border-radius: 8px;
+    text-align: center;
+}
